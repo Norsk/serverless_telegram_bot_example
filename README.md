@@ -1,3 +1,13 @@
+Apologies for contacting you this way - I could not see any means of reaching out to you otherwise.
+
+We are planning to launch a new product under the name Norsk, which will have a significant open source element to it and we would love to be able to host this under github.com/norsk.  I see that you own that username, but the account appears to be dormant, the only (visible) activity being to fork this repo some years ago.
+
+We would be very grateful if you would consider changing your username so that it could be picked up by a considerably more active account.
+
+With kind regards,
+
+Adrian Roe
+
 # Cloud Telegram Bot
 
 -1. Find @BotFather in Telegram and send them "/newbot" and name of your new bot after that
