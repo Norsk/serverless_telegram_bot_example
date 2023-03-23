@@ -1,3 +1,5 @@
+Apologies for contacting you this way - I could not see any means of reaching out to you otherwise.
+
 # Cloud Telegram Bot
 
 -1. Find @BotFather in Telegram and send them "/newbot" and name of your new bot after that
